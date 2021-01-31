@@ -1,6 +1,6 @@
 # Laravel Squire v1.x 📜
 
-## NOTICE: This v1.x package has been deprecated in favour of [v2.x](https://github.com/squirephp/squire) and is no longer maintained. [Learn more.](https://github.com/squirephp/squire#upgrading-from-1.x)
+## NOTICE: This v1.x package has been deprecated in favour of [v2.x](https://github.com/squirephp/squire) and is no longer maintained. [Learn more.](https://github.com/squirephp/squire#upgrading-from-1x)
 
 [![CI status](https://github.com/squirephp/legacy/workflows/run-tests/badge.svg)](https://github.com/squirephp/legacy/actions)
 
